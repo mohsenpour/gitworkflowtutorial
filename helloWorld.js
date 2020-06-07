@@ -1,5 +1,6 @@
 const helloWorld = () => {
-  console.log("sarah's line");
+  console.log("Hello World!");
+  console.log("added Sarah's line");
 }
 
 helloWorld();
